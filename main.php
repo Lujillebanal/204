@@ -20,4 +20,6 @@
     echo calculate(a: 20 , b:10, command: 'subtract') . "<br>"; 
     echo calculate(a: 5 , b:7, command: 'product') .  "<br>";
     echo calculate(a: 7 , b:2, command: 'quotient') .  "<br>";
+
+     String= "WebSystemTechnologiesIT204"
 ?>
